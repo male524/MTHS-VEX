@@ -81,11 +81,13 @@ ul.nav li a {
   Slider
 */
 
-.section .slider,
+
 .section .footer {
   background: #333;
 }
-
+.section .slider{
+  background-image: banner.png;
+}
 .slidercontent {
   text-align: center;
 }
