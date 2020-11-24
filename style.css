@@ -86,7 +86,7 @@ ul.nav li a {
   background: #333;
 }
 .section .slider{
-  background-image: banner.png;
+  background-image:url('banner.png');
 }
 .slidercontent {
   text-align: center;
