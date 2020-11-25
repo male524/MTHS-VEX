@@ -1,1 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="../style.css">
+  <script src="../myscripts.js"></script>
+</head>
+<body>
+  <div class="hold">
+    <div class="header">
+        <ul class="nav">
+          <li><a href="#">VEX Robotics</a></li>
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="about_us.html">About Us</a></li>
+          <li><a href="history.html">History</a></li>
+          <li><a href="sponsor.html">Sponsor</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </div>
+  </div>
+  <div class="section">
+    <div class="slider">
+      <div class="container slidercontent">
+        <h1 class="hero">About Us</h1>
+        <h2 class="hero">Tittle Text</h2>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="container">
+         <h1>Introduction</h1>
+      <h2>Text</h2>
+      <div class="group"></div>
+    </div>
+  </div>
+  <div class="section bg">
+    <div class="container">
+      <h1>Teams</h1>
+      <div class="col three bg nopad pointer">
+        <div class="imgholder"></div>
+      </div>
+      <div class="col three bg nopad pointer">
+        <div class="imgholder"></div>
+      </div>
+      <div class="col three bg nopad pointer">
+        <div class="imgholder"></div>
+      </div>
+      <div class="group margin"></div>
+      <div class="col three bg nopad pointer">
+        <div class="imgholder"></div>
+      </div>
+      <div class="col three bg nopad pointer">
+        <div class="imgholder"></div>
+      </div>
+      <div class="col three bg nopad pointer">
+        <div class="imgholder"></div>
+      </div>
+      <div class="group"></div>
+    </div>
+  </div>
 
+  <div class="section">
+    <div class="footer">
+      <div class="container white">
+        <div class="group"></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
