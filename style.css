@@ -77,6 +77,17 @@ ul.nav li a {
   color: initial;
   text-decoration: initial;
 }
+
+ul.nav li p {
+  padding: 20px;
+  margin: 0px;
+  display: inline;
+  font-size: 18px;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
 /*
   Slider
 */
