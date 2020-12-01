@@ -82,7 +82,7 @@ ul.nav li:hover a {
 
 ul.nav li a {
   padding: 20px;
-  color: initial;
+  color: white;
   text-decoration: initial;
 }
 
@@ -98,8 +98,8 @@ ul.nav li p {
 
 div.header img {
   padding: 0;
-  width: 3%;
-  height: 3%;
+  width: 4%;
+  height: 4%;
   float: left;
   position:relative;
 }
