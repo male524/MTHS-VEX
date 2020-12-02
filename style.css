@@ -454,6 +454,7 @@ backface-visibility: hidden;
 }
 .col:hover .two {
   opacity: 0.3;
+  background-color: #454440;
 }
 
 .col:hover .middle {
