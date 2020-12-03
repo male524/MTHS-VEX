@@ -102,7 +102,7 @@ div.header img {
   width: 4%;
   height: 4%;
   float: left;
-  position:relative;
+  vertical-align: center;
 }
 /*
   Slider
