@@ -98,13 +98,20 @@ ul.nav li p {
 }
 
 div.header img {
+  line-height: 80px;
   padding: 0;
   width: 4%;
   height: 4%;
   float: left;
-  transition: color 0.2s linear;
-  position: relative;
+  transition: line-height 0.2s linear;
+  position: fixed;
 }
+
+div.header img.small {
+  line-height: 50px;
+}
+
+
 /*
   Slider
 */
