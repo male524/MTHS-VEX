@@ -463,26 +463,22 @@ backface-visibility: hidden;
   opacity: 1;
 }
 
+/* unvisited link */
 a:link {
   color: red;
-  background-color: transparent;
-  text-decoration: none;
 }
 
+/* visited link */
 a:visited {
   color: red;
-  background-color: transparent;
-  text-decoration: none;
 }
 
+/* mouse over link */
 a:hover {
   color: black;
-  background-color: transparent;
-  text-decoration: underline;
 }
 
+/* selected link */
 a:active {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
+  color: grey;
 }
