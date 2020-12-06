@@ -480,5 +480,5 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: grey;
+  color: red;
 }
